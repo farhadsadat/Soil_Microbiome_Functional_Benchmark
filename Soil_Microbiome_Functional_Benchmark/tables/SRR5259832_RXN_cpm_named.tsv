@@ -1,0 +1,305 @@
+# Gene Family	SRR5259832_merged.clean_Abundance-RPKs
+UNGROUPED	891688
+1.2.4.4-RXN: (expasy) 3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring) [1.2.4.4]	431.917
+1.7.2.2-RXN: (expasy) Nitrite reductase (cytochrome; ammonia-forming) [1.7.2.2]	543.709
+1.8.1.4-RXN: (expasy) Dihydrolipoyl dehydrogenase [1.8.1.4]	347.852
+1.8.4.12-RXN: (expasy) Peptide-methionine (R)-S-oxide reductase [1.8.4.12]	131.656
+2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN: (expasy) 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [2.1.1.201]	153.325
+2-OXOGLUTARATE-SYNTHASE-RXN: (expasy) 2-oxoglutarate synthase [1.2.7.3]	76.4434
+2.3.1.179-RXN: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+2PGADEHYDRAT-RXN: (expasy) Phosphopyruvate hydratase [4.2.1.11]	711.581
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+3-OXOACYL-ACP-SYNTH-BASE-RXN: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	177.378
+3.1.11.6-RXN: (expasy) Exodeoxyribonuclease VII [3.1.11.6]	1228.87
+3.4.11.18-RXN: (expasy) Methionyl aminopeptidase [3.4.11.18]	249.519
+3.4.21.53-RXN: (expasy) Endopeptidase La [3.4.21.53]	374.008
+3.4.21.88-RXN: (expasy) Repressor LexA [3.4.21.88]	188.875
+3.4.21.92-RXN: (expasy) Endopeptidase Clp [3.4.21.92]	1182.46
+3.5.1.27-RXN: (expasy) Peptide deformylase [3.5.1.88]	539.367
+3.5.1.88-RXN: (expasy) Peptide deformylase [3.5.1.88]	539.367
+3.5.4.30-RXN: (expasy) dCTP deaminase (dUMP-forming) [3.5.4.30]	99.324
+4.1.99.4-RXN: (expasy) 1-aminocyclopropane-1-carboxylate deaminase [3.5.99.7]	258.123
+4.2.1.58-RXN: (metacyc) (3R)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase [4.2.1.59]	736.586
+4.2.1.59-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+4.2.1.61-RXN: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+5.3.1.23-RXN: (expasy) S-methyl-5-thioribose-1-phosphate isomerase [5.3.1.23]	234.573
+ABC-27-RXN: (expasy) ABC-type phosphate transporter [7.3.2.1]	196.263
+ACETATE--COA-LIGASE-RXN: (expasy) Acetate--CoA ligase [6.2.1.1]	259.4
+ACETOLACTREDUCTOISOM-RXN: (expasy) Ketol-acid reductoisomerase (NADP(+)) [1.1.1.86]	550.132
+ACETOLACTSYN-RXN: (expasy) Acetolactate synthase [2.2.1.6]	187.838
+ACETOOHBUTREDUCTOISOM-RXN: (expasy) Ketol-acid reductoisomerase (NADP(+)) [1.1.1.86]	550.132
+ACETOOHBUTSYN-RXN: (metacyc) 2-aceto-2-hydroxy-butyrate synthase [2.2.1.6]	187.838
+ACETYL-COA-ACETYLTRANSFER-RXN: (expasy) AMBIGUOUS [2.3.1.16; 2.3.1.9]	419.191
+ACETYL-COA-CARBOXYLTRANSFER-RXN: (expasy) Acetyl-CoA carboxylase [6.4.1.2]	177.023
+ACSERLY-RXN: (expasy) Cysteine synthase [2.5.1.47]	183.539
+ACYLPHOSPHATASE-RXN: (expasy) Acylphosphatase [3.6.1.7]	841.196
+ADENYL-KIN-RXN: (expasy) Adenylate kinase [2.7.4.3]	163.427
+ADENYLOSUCCINATE-SYNTHASE-RXN: (expasy) Adenylosuccinate synthase [6.3.4.4]	213.873
+ADENYLYLSULFATE-REDUCTASE-RXN: (expasy) Adenylyl-sulfate reductase [1.8.99.2]	134.533
+ADENYLYLSULFKIN-RXN: (expasy) Adenylyl-sulfate kinase [2.7.1.25]	288.258
+ADOMET-DMK-METHYLTRANSFER-RXN: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+AICARTRANSFORM-RXN: (expasy) Phosphoribosylaminoimidazolecarboxamide formyltransferase [2.1.2.3]	315.182
+ALANINE-DEHYDROGENASE-RXN: (expasy) Alanine dehydrogenase [1.4.1.1]	439.19
+AMINOCYL-TRNA-HYDROLASE-RXN: (expasy) Aminoacyl-tRNA hydrolase [3.1.1.29]	395.186
+ARGDECARBOX-RXN: (expasy) Arginine decarboxylase [4.1.1.19]	389.367
+ARGINASE-RXN: (expasy) Arginase [3.5.3.1]	181.941
+ARGSUCCINSYN-RXN: (expasy) Argininosuccinate synthase [6.3.4.5]	483.625
+ASPCARBTRANS-RXN: (expasy) Aspartate carbamoyltransferase [2.1.3.2]	622.74
+ASPDECARBOX-RXN: (expasy) Aspartate 1-decarboxylase [4.1.1.11]	501.744
+ATPPHOSPHORIBOSYLTRANS-RXN: (expasy) ATP phosphoribosyltransferase [2.4.2.17]	177.401
+ATPSYN-RXN: (expasy) H(+)-transporting two-sector ATPase [7.1.2.2]	176.892
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN: (expasy) Branched-chain-amino-acid transaminase [2.6.1.42]	177.757
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN: (expasy) AMBIGUOUS [2.6.1.42; 2.6.1.6]	177.757
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN: (expasy) Branched-chain-amino-acid transaminase [2.6.1.42]	177.757
+CARBAMATE-KINASE-RXN: (expasy) Carbamate kinase [2.7.2.2]	175.688
+CARBODEHYDRAT-RXN: (expasy) Carbonic anhydrase [4.2.1.1]	125.657
+CDPDIGLYSYN-RXN: (expasy) Phosphatidate cytidylyltransferase [2.7.7.41]	306.426
+CDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+CHORISMATE-SYNTHASE-RXN: (expasy) Chorismate synthase [4.2.3.5]	117.364
+CHORISMATEMUT-RXN: (expasy) Chorismate mutase [5.4.99.5]	336.97
+CITSYN-RXN: (expasy) AMBIGUOUS [2.3.3.1; 2.3.3.16]	283.237
+CPM-KDOSYNTH-RXN: (expasy) 3-deoxy-manno-octulosonate cytidylyltransferase [2.7.7.38]	213.922
+CTPSYN-RXN: (expasy) CTP synthase (glutamine hydrolyzing) [6.3.4.2]	319.505
+D-PPENTOMUT-RXN: (metacyc) D-deoxyribose 1,5-phosphomutase [5.4.2.7]	375.686
+DADPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+DCDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+DCTP-DEAM-RXN: (expasy) dCTP deaminase [3.5.4.13]	411.195
+DGDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+DIHYDRODIPICSYN-RXN: (expasy) 4-hydroxy-tetrahydrodipicolinate synthase [4.3.3.7]	185.083
+DNA-DIRECTED-DNA-POLYMERASE-RXN: (expasy) DNA-directed DNA polymerase [2.7.7.7]	543.636
+DNA-DIRECTED-RNA-POLYMERASE-RXN: (expasy) DNA-directed RNA polymerase [2.7.7.6]	4620.66
+DTDPDEHYDRHAMEPIM-RXN: (expasy) dTDP-4-dehydrorhamnose 3,5-epimerase [5.1.3.13]	105.233
+DTDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+DUDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+ENTDB-RXN: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	320.974
+F16ALDOLASE-RXN: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]	155.106
+FGAMSYN-RXN: (expasy) Phosphoribosylformylglycinamidine synthase [6.3.5.3]	1556.19
+GCVP-RXN: (expasy) Glycine dehydrogenase (aminomethyl-transferring) [1.4.4.2]	219.242
+GDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+GLUCISOM-RXN: (metacyc) glucose isomerase [5.3.1.5]	287.906
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN: (expasy) Glutamate N-acetyltransferase [2.3.1.35]	141.281
+GLUTAMIN-RXN: (expasy) AMBIGUOUS [3.5.1.2; 3.5.1.38]	243.716
+GLUTAMINESYN-RXN: (expasy) Glutamine synthetase [6.3.1.2]	100.465
+GMP-SYN-GLUT-RXN: (expasy) GMP synthase (glutamine-hydrolyzing) [6.3.5.2]	285.31
+GPH-RXN: (expasy) Phosphoglycolate phosphatase [3.1.3.18]	272.911
+GUANPRIBOSYLTRAN-RXN: (expasy) Hypoxanthine phosphoribosyltransferase [2.4.2.8]	335.016
+H2NEOPTERINALDOL-RXN: (expasy) Dihydroneopterin aldolase [4.1.2.25]	331.844
+H2PTERIDINEPYROPHOSPHOKIN-RXN: (expasy) 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [2.7.6.3]	241.609
+HOLO-ACP-SYNTH-RXN: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	320.974
+HYPOXANPRIBOSYLTRAN-RXN: (expasy) Hypoxanthine phosphoribosyltransferase [2.4.2.8]	335.016
+IMP-DEHYDROG-RXN: (expasy) IMP dehydrogenase [1.1.1.205]	306.661
+IMPCYCLOHYDROLASE-RXN: (expasy) IMP cyclohydrolase [3.5.4.10]	315.182
+INORGPYROPHOSPHAT-RXN: (expasy) Inorganic diphosphatase [3.6.1.1]	789.299
+ISOCHORMAT-RXN: (expasy) Isochorismatase [3.3.2.1]	203.491
+ISOCITDEH-RXN: (expasy) Isocitrate dehydrogenase (NADP(+)) [1.1.1.42]	249.519
+ISPH2-RXN: (expasy) 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [1.17.7.4]	222.185
+KETOISOCAPROATE-RXN: (metacyc) 4-methyl-2-oxopentanoate dehydrogenase (lipoamide) [1.2.4.4]	431.917
+LUMAZINESYN-RXN: (expasy) 6,7-dimethyl-8-ribityllumazine synthase [2.5.1.78]	557.414
+MALATE-DEH-RXN: (expasy) Malate dehydrogenase [1.1.1.37]	636.397
+MALIC-NADP-RXN: (expasy) Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+)) [1.1.1.40]	149.711
+METHGLYSYN-RXN: (expasy) Methylglyoxal synthase [4.2.3.3]	101.644
+METHYLMALONYL-COA-MUT-RXN: (expasy) Methylmalonyl-CoA mutase [5.4.99.2]	52.2513
+METHYLVALERATE-RXN: (metacyc) 3-methyl-2-oxobutanoate dehydrogenase [(S)-2-methylbutanoyl-transferring) [1.2.4.4]	431.917
+MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN: (expasy) Inositol-phosphate phosphatase [3.1.3.25]	253.422
+N-ACETYLGLUTPREDUCT-RXN: (expasy) N-acetyl-gamma-glutamyl-phosphate reductase [1.2.1.38]	214.445
+N-ACETYLTRANSFER-RXN: (expasy) Amino-acid N-acetyltransferase [2.3.1.1]	141.281
+NAD-SYNTH-GLN-RXN: (expasy) NAD(+) synthase (glutamine-hydrolyzing) [6.3.5.1]	216.524
+NICONUCADENYLYLTRAN-RXN: (expasy) Nicotinate-nucleotide adenylyltransferase [2.7.7.18]	98.8658
+NICOTINATEPRIBOSYLTRANS-RXN: (expasy) Nicotinate phosphoribosyltransferase [6.3.4.21]	616.813
+NITRILE-HYDRATASE-RXN: (expasy) Nitrile hydratase [4.2.1.84]	185.896
+NITRITE-REDUCTASE-CYTOCHROME-RXN: (expasy) Nitrite reductase (NO-forming) [1.7.2.1]	218.43
+NUCLEOSIDE-DIP-KIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+PANTEPADENYLYLTRAN-RXN: (expasy) Pantetheine-phosphate adenylyltransferase [2.7.7.3]	361.944
+PEPTIDYLPROLYL-ISOMERASE-RXN: (expasy) Peptidylprolyl isomerase [5.2.1.8]	631.595
+PGLYCDEHYDROG-RXN: (expasy) Phosphoglycerate dehydrogenase [1.1.1.95]	198.09
+PHENYLALANINE--TRNA-LIGASE-RXN: (expasy) Phenylalanine--tRNA ligase [6.1.1.20]	212.711
+PMPOXI-RXN: (expasy) Pyridoxal 5'-phosphate synthase [1.4.3.5]	159.015
+PNPOXI-RXN: (expasy) Pyridoxal 5'-phosphate synthase [1.4.3.5]	159.015
+PORPHOBILSYNTH-RXN: (expasy) Porphobilinogen synthase [4.2.1.24]	223.927
+PPENTOMUT-RXN: (expasy) Phosphopentomutase [5.4.2.7]	375.686
+PROPIONATE--COA-LIGASE-RXN: (expasy) Propionate--CoA ligase [6.2.1.17]	270.097
+PSERTRANSAM-RXN: (expasy) Phosphoserine transaminase [2.6.1.52]	201.486
+PSERTRANSAMPYR-RXN: (expasy) Phosphoserine transaminase [2.6.1.52]	201.486
+PTAALT-RXN: (expasy) Phosphate propanoyltransferase [2.3.1.222]	180.296
+PYRUVATE-CARBOXYLASE-RXN: (expasy) Pyruvate carboxylase [6.4.1.1]	331.639
+R10-RXN: (expasy) 3-hexulose-6-phosphate synthase [4.1.2.43]	105.327
+R310-RXN: (expasy) Nitrile hydratase [4.2.1.84]	185.896
+R313-RXN: (expasy) Nitrile hydratase [4.2.1.84]	185.896
+RIB5PISOM-RXN: (expasy) Ribose-5-phosphate isomerase [5.3.1.6]	206.295
+RXN-10: (expasy) Argininosuccinate synthase [6.3.4.5]	483.625
+RXN-10656: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-10660: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-10674: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	320.974
+RXN-10857: (expasy) Dihydroneopterin aldolase [4.1.2.25]	331.844
+RXN-10949: (expasy) Inositol-phosphate phosphatase [3.1.3.25]	253.422
+RXN-10952: (expasy) Inositol-phosphate phosphatase [3.1.3.25]	253.422
+RXN-10953: (expasy) Inositol-phosphate phosphatase [3.1.3.25]	253.422
+RXN-10954: (expasy) Inositol-phosphate phosphatase [3.1.3.25]	253.422
+RXN-10994: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	320.974
+RXN-11046: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-11136: (expasy) HslU--HslV peptidase [3.4.25.2]	323.279
+RXN-11322: (expasy) Pyridoxal 5'-phosphate synthase (glutamine hydrolyzing) [4.3.3.6]	807.614
+RXN-11477: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-11481: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-11592: (expasy) 23S rRNA (pseudouridine(1915)-N(3))-methyltransferase [2.1.1.177]	124.759
+RXN-11754: (expasy) 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [2.1.1.201]	153.325
+RXN-12093: (expasy) 7-cyano-7-deazaguanine synthase [6.3.4.20]	121.21
+RXN-12345: (expasy) Chorismate dehydratase [4.2.1.151]	294.686
+RXN-12458: (expasy) tRNA (guanine(37)-N(1))-methyltransferase [2.1.1.228]	236.031
+RXN-12460: (metacyc) L-asparaginyl-tRNAasn hydrolase [3.1.1.29]	395.186
+RXN-12565: (expasy) AMBIGUOUS [2.3.1.16; 2.3.1.9]	419.191
+RXN-12588: (expasy) Cysteine desulfurase [2.8.1.7]	155.906
+RXN-12720: (expasy) Sulfate adenylyltransferase [2.7.7.4]	134.875
+RXN-12726: (expasy) Cysteine synthase [2.5.1.47]	183.539
+RXN-13009: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-13158: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	346.44
+RXN-13163: (expasy) 3-isopropylmalate dehydratase [4.2.1.33]	429.499
+RXN-13908: (expasy) 4a-hydroxytetrahydrobiopterin dehydratase [4.2.1.96]	180.686
+RXN-13997: (expasy) tRNA(adenine(34)) deaminase [3.5.4.33]	254.39
+RXN-14047: (expasy) Aconitate hydratase [4.2.1.3]	117.36
+RXN-14118: (expasy) dCTP deaminase [3.5.4.13]	411.195
+RXN-14120: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+RXN-14177: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-14206: (expasy) 4a-hydroxytetrahydrobiopterin dehydratase [4.2.1.96]	180.686
+RXN-14228: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+RXN-14338: (expasy) Diadenylate cyclase [2.7.7.85]	181.311
+RXN-14385: (expasy) Cysteine desulfurase [2.8.1.7]	155.906
+RXN-14517: (expasy) tRNA (guanine(37)-N(1))-methyltransferase [2.1.1.228]	236.031
+RXN-14725: (expasy) Nitrile hydratase [4.2.1.84]	185.896
+RXN-14726: (expasy) Nitrile hydratase [4.2.1.84]	185.896
+RXN-14937: (expasy) (3S)-malyl-CoA thioesterase [3.1.2.30]	306.426
+RXN-14986: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	346.44
+RXN-15006: (expasy) N-acetyl-gamma-glutamyl-phosphate reductase [1.2.1.38]	214.445
+RXN-15733: (expasy) 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [2.7.6.3]	241.609
+RXN-15838: (expasy) Nitrite reductase (NO-forming) [1.7.2.1]	218.43
+RXN-15878: (expasy) (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin) [1.17.7.3]	558.651
+RXN-15881: (expasy) Cysteine desulfurase [2.8.1.7]	155.906
+RXN-15889: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	320.974
+RXN-16619: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-16623: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-16627: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-16631: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-16637: (expasy) Aminoacyl-tRNA hydrolase [3.1.1.29]	395.186
+RXN-16759: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	320.974
+RXN-17609: (expasy) Nitrile hydratase [4.2.1.84]	185.896
+RXN-17809: (expasy) Cyclic pyranopterin monophosphate synthase [4.6.1.17]	110.082
+RXN-17873: (expasy) Methionyl aminopeptidase [3.4.11.18]	249.519
+RXN-17874: (expasy) Methionyl aminopeptidase [3.4.11.18]	249.519
+RXN-17875: (expasy) Methionyl aminopeptidase [3.4.11.18]	249.519
+RXN-17876: (expasy) Methionyl aminopeptidase [3.4.11.18]	249.519
+RXN-17877: (expasy) Methionyl aminopeptidase [3.4.11.18]	249.519
+RXN-17878: (expasy) Methionyl aminopeptidase [3.4.11.18]	249.519
+RXN-18446: (expasy) Acetate--CoA ligase [6.2.1.1]	259.4
+RXN-18447: (expasy) Acetate--CoA ligase [6.2.1.1]	259.4
+RXN-18448: (expasy) Acetate--CoA ligase [6.2.1.1]	259.4
+RXN-18605: (expasy) Nitrite reductase (cytochrome; ammonia-forming) [1.7.2.2]	543.709
+RXN-19477: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	320.974
+RXN-19493: (expasy) Holo-[acyl-carrier-protein] synthase [2.7.8.7]	320.974
+RXN-19667: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-19916: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]	155.106
+RXN-20037: (expasy) Cysteine desulfurase [2.8.1.7]	155.906
+RXN-20524: (expasy) Phosphatidate cytidylyltransferase [2.7.7.41]	306.426
+RXN-20927: (expasy) DNA-directed DNA polymerase [2.7.7.7]	543.636
+RXN-21315: (expasy) S-methyl-5-thioribose-1-phosphate isomerase [5.3.1.23]	234.573
+RXN-21560: (expasy) Cysteine desulfurase [2.8.1.7]	155.906
+RXN-21566: (expasy) Cysteine desulfurase [2.8.1.7]	155.906
+RXN-21615: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21617: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21619: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21621: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21623: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21625: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21627: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21629: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21632: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21634: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21636: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21646: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21649: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21651: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21654: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21656: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21659: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21661: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21664: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21666: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21669: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21671: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21677: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21680: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21682: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21685: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21687: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21690: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21692: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21695: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21698: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21701: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-21703: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-21753: (expasy) Propionate--CoA ligase [6.2.1.17]	270.097
+RXN-2882: (expasy) 5,6,7,8-tetrahydromethanopterin hydro-lyase [4.2.1.147]	244.345
+RXN-34: (expasy) Arginase [3.5.3.1]	181.941
+RXN-7253: (expasy) Inositol-phosphate phosphatase [3.1.3.25]	253.422
+RXN-7567: (metacyc) indole-3-acetonitrile hydratase [4.2.1.84]	185.896
+RXN-7716: (expasy) Dihydrolipoyl dehydrogenase [1.8.1.4]	347.852
+RXN-7719: (expasy) Dihydrolipoyl dehydrogenase [1.8.1.4]	347.852
+RXN-8391: (expasy) Beta-ketoacyl-[acyl-carrier-protein] synthase II [2.3.1.179]	177.378
+RXN-8629: (expasy) Dihydrolipoyl dehydrogenase [1.8.1.4]	347.852
+RXN-8631: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]	155.106
+RXN-8668: (expasy) Peptide-methionine (S)-S-oxide reductase [1.8.4.11]	106.286
+RXN-9191: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-9205: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-9220: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-9227: (metacyc) 2-heptaprenyl-6-methoxy-1,4-benzoquinone methyltransferase [2.1.1.201]	153.325
+RXN-9235: (expasy) 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [2.1.1.201]	153.325
+RXN-9242: (expasy) 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [2.1.1.201]	153.325
+RXN-9361: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-9362: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-9363: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-9366: (expasy) Demethylmenaquinone methyltransferase [2.1.1.163]	153.325
+RXN-9520: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-9533: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-9535: (expasy) AMBIGUOUS [2.3.1.179; 2.3.1.41]	177.378
+RXN-9537: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-9557: (metacyc) 3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase [4.2.1.59]	736.586
+RXN-9634: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-9655: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN-9787: (metacyc) cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase [2.8.1.7]	155.906
+RXN0-1132: (expasy) Dihydrolipoyl dehydrogenase [1.8.1.4]	347.852
+RXN0-1134: (expasy) Pyruvate dehydrogenase (acetyl-transferring) [1.2.4.1]	356.455
+RXN0-1483: (expasy) Ferroxidase [1.16.3.1]	245.144
+RXN0-2144: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN0-4022: (expasy) PreQ(1) synthase [1.7.1.13]	418.061
+RXN0-5055: (expasy) Acetyl-CoA carboxytransferase [2.1.3.15]	377.999
+RXN0-5224: (expasy) Carbonic anhydrase [4.2.1.1]	125.657
+RXN0-5408: (expasy) Inositol-phosphate phosphatase [3.1.3.25]	253.422
+RXN0-5515: (expasy) Phosphatidate cytidylyltransferase [2.7.7.41]	306.426
+RXN0-6481: (expasy) tRNA nucleotidyltransferase [2.7.7.56]	936.204
+RXN0-6482: (expasy) tRNA nucleotidyltransferase [2.7.7.56]	936.204
+RXN0-6948: (expasy) Amino-acid N-acetyltransferase [2.3.1.1]	141.281
+RXN0-743: (expasy) 5-(carboxyamino)imidazole ribonucleotide mutase [5.4.99.18]	144.562
+RXN0-884: (expasy) 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [1.17.7.4]	222.185
+RXN1G-320: (expasy) 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [4.2.1.59]	736.586
+RXN3O-54: (expasy) 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [2.1.1.201]	153.325
+RXNQT-4165: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	346.44
+RXNQT-4168: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	346.44
+RXNQT-4171: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	346.44
+RXNQT-4174: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	346.44
+RXNQT-4178: (expasy) 3-isopropylmalate dehydrogenase [1.1.1.85]	346.44
+SAICARSYN-RXN: (expasy) Phosphoribosylaminoimidazolesuccinocarboxamide synthase [6.3.2.6]	146.264
+SEDOBISALDOL-RXN: (expasy) Fructose-bisphosphate aldolase [4.1.2.13]	155.106
+SELENOCYSTEINE-LYASE-RXN: (expasy) Selenocysteine lyase [4.4.1.16]	155.906
+SUCCCOASYN-RXN: (expasy) Succinate--CoA ligase (ADP-forming) [6.2.1.5]	316.431
+SUCCINYLDIAMINOPIMTRANS-RXN: (expasy) Succinyldiaminopimelate transaminase [2.6.1.17]	317.569
+SULFATE-ADENYLYLTRANS-RXN: (expasy) Sulfate adenylyltransferase [2.7.7.4]	134.875
+SUPEROX-DISMUT-RXN: (expasy) Superoxide dismutase [1.15.1.1]	593.594
+TETHYDPICSUCC-RXN: (expasy) 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [2.3.1.117]	354.389
+THREONINE--TRNA-LIGASE-RXN: (expasy) Threonine--tRNA ligase [6.1.1.3]	197.307
+TRANS-RXN0-277: (expasy) Proton-translocating NAD(P)(+) transhydrogenase [7.1.1.1]	115.485
+TRANSALDOL-RXN: (expasy) Transaldolase [2.2.1.2]	422.466
+TRNA-NUCLEOTIDYLTRANSFERASE-RXN: (expasy) tRNA nucleotidyltransferase [2.7.7.56]	936.204
+UDPKIN-RXN: (expasy) Nucleoside-diphosphate kinase [2.7.4.6]	280.813
+UDPNACETYLMURAMATEDEHYDROG-RXN: (expasy) UDP-N-acetylmuramate dehydrogenase [1.3.1.98]	232.884
+UROCANATE-HYDRATASE-RXN: (expasy) Urocanate hydratase [4.2.1.49]	264.975
+XANPRIBOSYLTRAN-RXN: (expasy) Xanthine phosphoribosyltransferase [2.4.2.22]	113.761
+XYLISOM-RXN: (expasy) Xylose isomerase [5.3.1.5]	287.906

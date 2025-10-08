@@ -1,0 +1,12 @@
+name: humann39
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - humann=3.9
+  - metaphlan
+  - diamond
+  - pandas
+  - matplotlib
+  - python=3.9
+  - numpy
